@@ -1,0 +1,2 @@
+This is the coe file and you might have some code written in this file.
+Its not about the code, its about how you are goint to manage this file using Git.
